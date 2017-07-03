@@ -1,0 +1,15 @@
+C:\Users\132173\Desktop\Windows Phone\AppQuizFacens\AppQuizFacens\obj\Debug\App.g.i.cs
+C:\Users\132173\Desktop\Windows Phone\AppQuizFacens\AppQuizFacens\obj\Debug\MainPage.g.i.cs
+C:\Users\132173\Desktop\Windows Phone\AppQuizFacens\AppQuizFacens\Bin\Debug\ApplicationIcon.png
+C:\Users\132173\Desktop\Windows Phone\AppQuizFacens\AppQuizFacens\Bin\Debug\Background.png
+C:\Users\132173\Desktop\Windows Phone\AppQuizFacens\AppQuizFacens\Bin\Debug\AppQuizFacens.dll
+C:\Users\132173\Desktop\Windows Phone\AppQuizFacens\AppQuizFacens\Bin\Debug\AppQuizFacens.pdb
+C:\Users\132173\Desktop\Windows Phone\AppQuizFacens\AppQuizFacens\Bin\Debug\AppManifest.xaml
+C:\Users\132173\Desktop\Windows Phone\AppQuizFacens\AppQuizFacens\Bin\Debug\AppQuizFacens.xap
+C:\Users\132173\Desktop\Windows Phone\AppQuizFacens\AppQuizFacens\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\132173\Desktop\Windows Phone\AppQuizFacens\AppQuizFacens\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\132173\Desktop\Windows Phone\AppQuizFacens\AppQuizFacens\obj\Debug\perguntas.g.i.cs
+C:\Users\132173\Desktop\Windows Phone\AppQuizFacens\AppQuizFacens\obj\Debug\AppQuizFacens.g.resources
+C:\Users\132173\Desktop\Windows Phone\AppQuizFacens\AppQuizFacens\obj\Debug\AppQuizFacens.dll
+C:\Users\132173\Desktop\Windows Phone\AppQuizFacens\AppQuizFacens\obj\Debug\AppQuizFacens.pdb
+C:\Users\132173\Desktop\Windows Phone\AppQuizFacens\AppQuizFacens\obj\Debug\XapCacheFile.xml
